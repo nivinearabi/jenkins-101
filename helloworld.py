@@ -1,4 +1,4 @@
 
 print("It will work")
-print("don't give up")
+print("Success needs time")
 print("don't give up")
